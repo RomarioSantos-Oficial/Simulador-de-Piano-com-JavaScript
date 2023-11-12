@@ -2,4 +2,4 @@
 
 Projeito Feito por Romario Santos para o projeto da DIO. Jogo da memória com Emojis Utilizando Javascript.
 
-![Alt text](image.png)
+![Alt text](./src/images/image.png)
